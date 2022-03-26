@@ -1,2 +1,2 @@
-# zion
-Clone of the zion webpage
+# Zion
+Website for project overview.

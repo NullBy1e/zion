@@ -1,0 +1,55 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Courier New, Courier, monospace;
+  font-weight: 550;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  background-color: #1a1c19;
+}
+h1 {
+  color: #61e055;
+}
+h2,
+h3 {
+  color: #7ffe6f;
+}
+p {
+  color: #bbccb2;
+}
+
+#main-header {
+  text-align: center;
+}
+.text-block {
+  margin-top: 20px;
+  text-align: center;
+}
+
+/*? Index page stylesheet */
+#index-overview {
+  margin-top: 10px;
+}
+#index-overview p {
+  padding: 10px;
+}
+#index-overview a {
+  color: lightblue;
+}
+#index-overview h3 {
+  margin-top: 10px;
+}
+
+/*? Small fingerprint on bottom of the page*/
+#authored {
+  margin-top: 20px;
+  font-size: 10px;
+  text-align: center;
+  color: #676b64;
+}
+
+
